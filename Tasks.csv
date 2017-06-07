@@ -1,3 +1,5 @@
-Title,Acceptance criteria
-Titulo,Critérios de aceitação
-Configure Stage 2 for dispatcher access ," - AEM user can log in Login- Upload new assets"
+Priority (1 to 10),Title,Acceptance criteria,Owner,Comments
+,Titulo,Critérios de aceitação,,
+10,Configure Stage 2 for dispatcher access ,"- AEM user can log in Login via dispatcher- Authorized AEM user can upload new assets- Only admin user can log in using https://author-itau-stage.adobecqms.net",Maurice?,
+2,"Recommend: LDAP, SSO, or both",What authentication strategy will be used for AEM after initial period using native AEM user administration?,Marcel,"Owner must analyze SSO and LDAP capabilities and limitations, then determine what approach should be used for Assets."
+1,Understand Itaú LDAP configuration,"- can AEM query LDAP for subset of users that should have access to AEM?- How is principal metadata configured in LDAP?- Are groups defined in LDAP for AEM users suitable for use in AEM?",Marcel,
