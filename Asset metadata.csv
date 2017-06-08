@@ -1,7 +1,7 @@
 Market segment,Asset type,Product type,Product identifier,Creator,Approver
 itau:assetType,String,[1]Investment,,,
-,,Stock,,,
-,,Bond,,,
+banner,,Stock,,,
+wireframe,,Bond,,,
 ,,Mutual fund,,,
 ,,[1]Insurance,,,
 ,,Life,,,
