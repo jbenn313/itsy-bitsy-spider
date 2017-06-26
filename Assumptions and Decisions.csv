@@ -1,2 +1,0 @@
-Title,Summary
-Initial use of native AEM user administration,"For initial go live, LDAP and SSO will not be used for user authentication. Native AEM user administration will be used temporarily.  LDAP and/or SSO will be implemented later, as soon as time permits."
